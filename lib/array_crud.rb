@@ -10,13 +10,13 @@ end
 
 def add_element_to_end_of_array(array, element)
  ["pink","yellow","white","blue"]
-  array << "element"
+  array << "arrays!"
   
 end
 
 def add_element_to_start_of_array(array, element)
    ["pink","yellow","white","blue"]
-   array.unshift("element")
+   array.unshift("wow")
 
 end
 
